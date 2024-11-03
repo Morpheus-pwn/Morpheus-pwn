@@ -1,7 +1,7 @@
 ![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 <h1 align="center">Hi 👋, I'm PAWAN SHAJI</h1>
 <h3 align="center">A passionate full stack web developer from kerala,india</h3>
-<img align="right" alt="coding" width="400" src="https://in.pinterest.com/pin/204702745549241158/">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/11289837/work_from_hom_size.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morpheus-pwn&label=Profile%20views&color=0e75b6&style=flat" alt="morpheus-pwn" /> </p>
 
